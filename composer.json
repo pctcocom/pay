@@ -27,7 +27,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Pctco\\Types\\": "src"
+            "Pctco\\Pay\\": "src"
         }
     },
     "minimum-stability": "dev"
